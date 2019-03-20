@@ -1,0 +1,23 @@
+
+
+img {
+  max-width: 50%;
+}
+img.floater {
+  float:left;
+  margin: 5px;
+  padding: 5px;
+}
+
+.sidebar {
+  float: right;
+  background-color: aliceblue;
+  margin: 10px;
+  padding: 20px;
+}
+.column {
+  width: 300px;
+  float:left;
+  background-color: whitesmoke;
+  padding: 5px;
+}
